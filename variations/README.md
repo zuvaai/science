@@ -4,7 +4,7 @@ CHIIR 2019
 
 ## Data Collection
 The annotated spans by human and machine annotators as well as text renderings of the documents are
-being released as a part of the Kira Systems collection (for non-commercial use). To gain access to the collection (in whole or part), researchers are required to fill out and submit [this](https://kirasystems.com/files/Kira-Systems-Information-Release-Application.pdf) agreement to `science at kirasystems dot com`. Upon receipt and successful processing of the executed agreement, researchers will be provided access to a download system that will enable them to retrieve the test collection. Specific instructions will be provided in the follow-up email. 
+being released as a part of the Kira Systems collection (for non-commercial use). To gain access to the collection (in whole or part), researchers are required to fill out and send an email to `science at zuva dot ai` and we'll send you a data release form. Upon receipt and successful processing of the executed agreement, researchers will be provided access to a download system that will enable them to retrieve the test collection. Specific instructions will be provided in the follow-up email. 
 
 Note that at the moment, we are not releasing featurized versions of the annotated documents. Accordingly, to replicate any of the machine learned models will require featurizing the documents and aligning the provided spans to those labels. 
 
