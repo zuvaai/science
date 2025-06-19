@@ -1,0 +1,6 @@
+experiment,clause_type,val_accuracy
+crawl-300d-2M-subword-norm,all,0.86
+nv-embed-v2-norm,all,0.95
+text-embedding-3-large,all,0.94
+text-embedding-004,all,0.87
+legal-bert-base-uncased-meanpool-norm,all,0.9388

@@ -1,0 +1,51 @@
+experiment,clause_type,val_accuracy
+crawl-300d-2M-subword-norm,Assignment,0.9
+crawl-300d-2M-subword-norm,Transfer of Data,0.85
+crawl-300d-2M-subword-norm,Exclusivity,0.65
+crawl-300d-2M-subword-norm,Non-Solicit,0.7
+crawl-300d-2M-subword-norm,Permitted Use of Data,0.65
+crawl-300d-2M-subword-norm,Audit Right,0.8
+crawl-300d-2M-subword-norm,License Grant,0.9
+crawl-300d-2M-subword-norm,MFN,0.8
+crawl-300d-2M-subword-norm,Publicity,0.9
+crawl-300d-2M-subword-norm,Termination for Convenience,0.8
+nv-embed-v2-norm,Assignment,0.95
+nv-embed-v2-norm,Transfer of Data,0.95
+nv-embed-v2-norm,Exclusivity,0.95
+nv-embed-v2-norm,Non-Solicit,0.8
+nv-embed-v2-norm,Permitted Use of Data,1.0
+nv-embed-v2-norm,Audit Right,0.8
+nv-embed-v2-norm,License Grant,1.0
+nv-embed-v2-norm,MFN,0.85
+nv-embed-v2-norm,Publicity,0.8
+nv-embed-v2-norm,Termination for Convenience,0.95
+text-embedding-3-large,Assignment,1.0
+text-embedding-3-large,Transfer of Data,0.75
+text-embedding-3-large,Exclusivity,0.85
+text-embedding-3-large,Non-Solicit,0.8
+text-embedding-3-large,Permitted Use of Data,0.95
+text-embedding-3-large,Audit Right,0.95
+text-embedding-3-large,License Grant,0.75
+text-embedding-3-large,MFN,0.8
+text-embedding-3-large,Publicity,0.9
+text-embedding-3-large,Termination for Convenience,0.95
+text-embedding-004,Assignment,0.95
+text-embedding-004,Transfer of Data,0.8
+text-embedding-004,Exclusivity,0.8
+text-embedding-004,Non-Solicit,0.8
+text-embedding-004,Permitted Use of Data,1.0
+text-embedding-004,Audit Right,1.0
+text-embedding-004,License Grant,0.65
+text-embedding-004,MFN,0.8
+text-embedding-004,Publicity,0.85
+text-embedding-004,Termination for Convenience,0.85
+legal-bert-base-uncased-meanpool-norm,Assignment,0.95
+legal-bert-base-uncased-meanpool-norm,Transfer of Data,0.8
+legal-bert-base-uncased-meanpool-norm,Exclusivity,0.8
+legal-bert-base-uncased-meanpool-norm,Non-Solicit,0.95
+legal-bert-base-uncased-meanpool-norm,Permitted Use of Data,0.95
+legal-bert-base-uncased-meanpool-norm,Audit Right,0.85
+legal-bert-base-uncased-meanpool-norm,License Grant,0.9
+legal-bert-base-uncased-meanpool-norm,MFN,0.9444
+legal-bert-base-uncased-meanpool-norm,Publicity,0.8
+legal-bert-base-uncased-meanpool-norm,Termination for Convenience,0.95
