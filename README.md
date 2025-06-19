@@ -1,4 +1,4 @@
-# Kira Science Repository
+# Zuva Science Repository
 
 This repository contains links to source code and data agreements for replication of results formally published by the Kira Research team. Each paper is given its own subdirectory and README with any necessary context or information.
 
@@ -46,6 +46,6 @@ While document signatures are a well established tool in IR, they have primarily
 
 CHIIR 2020
 
-Code [here](https://github.com/kirasystems/spectator)
+Code [here](https://github.com/zuvaai/spectator)
 
 Many information retrieval tasks require viewing documents in some manner, whether this is to view information in context or to provide annotations for some downstream task (e.g., evaluation or system training). Building a high-quality document viewer often exceeds the resources of many researchers and so, in this paper, we describe the design and architecture of our new open-source document viewer, Spectator. In particular, we provide a look into the algorithmic details of how Spectator accomplishes tasks like mapping annotations back to the canonical document. Moreover, we provide a sampling of the use cases that we envision for Spectator, potential future additions depending on community need and support, and highlight situations where Spectator may not be a good fit. Furthermore, we provide a brief description of the sample application that we bundle with Spectator to demonstrate how one might use it within the context of a larger system.
