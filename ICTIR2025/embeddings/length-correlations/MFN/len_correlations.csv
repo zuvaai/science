@@ -1,0 +1,11 @@
+model,sim_type,pearson
+models/fasttext/crawl-300d-2M-subword-norm,cos,0.25946286152247017
+models/fasttext/crawl-300d-2M-subword-norm,L2,-0.4284107962276472
+models/nvidia/nv-embed-v2-norm,cos,0.23069832523503375
+models/nvidia/nv-embed-v2-norm,L2,-0.3432876689103651
+models/openai/text-embedding-3-large,cos,0.257244853688042
+models/openai/text-embedding-3-large,L2,-0.3262631632980595
+models/gemini/text-embedding-004,cos,0.21230971793996029
+models/gemini/text-embedding-004,L2,-0.3510352021209568
+models/legal-bert/legal-bert-base-uncased-meanpool-norm,cos,0.47585369871073857
+models/legal-bert/legal-bert-base-uncased-meanpool-norm,L2,-0.5410087245676708

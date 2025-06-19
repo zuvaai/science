@@ -1,0 +1,6 @@
+Model,Correct L2,Incorrect L2,Correct Cos,Incorrect Cos
+fasttext,0,200,0,200
+legal-bert,1,198,1,198
+nvidia,3,197,3,197
+openai,12,188,12,188
+gemini,24,176,24,176
