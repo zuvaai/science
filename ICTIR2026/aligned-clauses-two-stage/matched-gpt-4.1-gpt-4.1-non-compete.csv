@@ -1,0 +1,12 @@
+Doc,Obls,Score,Rank
+Immunomedics 2,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1], [2, 2]], 'opposite': []}",1.0
+Auxillium 3,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1], [2, 2]], 'opposite': []}",1.0,1
+1 Deerfield,"{'unmatchedList1': [0], 'unmatchedList2': [0, 3], 'identical': [[1, 1], [2, 2], [2, 3]], 'opposite': []}",0.5,2
+Zeta Global,"{'unmatchedList1': [0, 1], 'unmatchedList2': [0, 1, 2], 'identical': [[2, 3], [2, 4]], 'opposite': []}",0.2857142857142857,3
+Auxillium,"{'unmatchedList1': [0], 'unmatchedList2': [0, 3, 4, 5, 6, 7], 'identical': [[2, 2], [1, 1]], 'opposite': []}",0.2222222222222222,4
+Tilray,"{'unmatchedList1': [0, 2], 'unmatchedList2': [0, 2], 'identical': [[1, 1]], 'opposite': []}",0.2,5
+Tilray 2,"{'unmatchedList1': [0, 2], 'unmatchedList2': [0, 2], 'identical': [[1, 1]], 'opposite': []}",0.2,5
+2 from Tilray,"{'unmatchedList1': [0, 2], 'unmatchedList2': [0, 2], 'identical': [[1, 1]], 'opposite': []}",0.2,5
+Auxillium 2,"{'unmatchedList1': [0, 1], 'unmatchedList2': [0, 1], 'identical': [[2, 2]], 'opposite': []}",0.2,5
+Immunomedics 3,"{'unmatchedList1': [0, 1], 'unmatchedList2': [0, 1, 2], 'identical': [[2, 3]], 'opposite': []}",0.16666666666666666,6
+Immunomedics,"{'unmatchedList1': [0, 1], 'unmatchedList2': [0, 1, 2], 'identical': [[2, 3]], 'opposite': []}",0.16666666666666666,6

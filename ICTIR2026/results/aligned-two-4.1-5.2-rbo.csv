@@ -1,0 +1,11 @@
+Clause,P,Value
+assignment,0.9,0.56
+confidentiality,0.9,0.617
+force-majeure,0.9,0.748
+indemnity,0.9,0.43
+publicity,0.9,0.481
+duration,0.9,0.491
+non-disparagement,0.9,0.456
+non-compete,0.9,0.369
+notice,0.9,0.547
+termination,0.9,0.645

@@ -1,0 +1,12 @@
+Doc,Obls,Score,Rank
+Immunomedics 2,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1], [2, 2], [3, 3], [4, 4], [5, 5]], 'opposite': []}",1.0
+Auxillium 3,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1], [2, 2], [3, 3], [4, 4], [5, 5]], 'opposite': []}",1.0,1
+Immunomedics 3,"{'unmatchedList1': [], 'unmatchedList2': [1, 2, 3], 'identical': [[0, 0], [2, 4], [3, 5], [4, 6], [5, 7], [1, 8]], 'opposite': []}",0.6666666666666666,2
+Auxillium 2,"{'unmatchedList1': [], 'unmatchedList2': [1, 2, 3], 'identical': [[0, 0], [1, 4], [2, 5], [3, 6], [4, 7], [5, 8]], 'opposite': []}",0.6666666666666666,2
+1 Deerfield,"{'unmatchedList1': [0, 1], 'unmatchedList2': [0, 1], 'identical': [[2, 2], [3, 3], [4, 4], [5, 5]], 'opposite': []}",0.5,3
+Zeta Global,"{'unmatchedList1': [0, 1, 2], 'unmatchedList2': [0, 1, 2], 'identical': [[3, 3], [4, 4], [5, 5], [3, 6], [4, 7]], 'opposite': []}",0.45454545454545453,4
+Immunomedics,"{'unmatchedList1': [0, 1], 'unmatchedList2': [0, 1, 2], 'identical': [[2, 3], [3, 4], [4, 5], [5, 6]], 'opposite': []}",0.4444444444444444,5
+Tilray,"{'unmatchedList1': [0, 1], 'unmatchedList2': [0, 1, 2, 3, 4, 5, 6, 7, 12], 'identical': [[2, 8], [3, 9], [4, 10], [5, 11]], 'opposite': []}",0.26666666666666666,6
+Auxillium,"{'unmatchedList1': [0, 1], 'unmatchedList2': [0, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16], 'identical': [[3, 2], [4, 3], [5, 4], [2, 1]], 'opposite': []}",0.21052631578947367,7
+Tilray 2,"{'unmatchedList1': [0, 1, 3, 4], 'unmatchedList2': [0, 1, 3, 4, 6], 'identical': [[2, 2], [5, 5]], 'opposite': []}",0.18181818181818182,8
+2 from Tilray,"{'unmatchedList1': [0, 1, 3, 4, 5], 'unmatchedList2': [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12], 'identical': [[2, 8]], 'opposite': []}",0.05555555555555555,9

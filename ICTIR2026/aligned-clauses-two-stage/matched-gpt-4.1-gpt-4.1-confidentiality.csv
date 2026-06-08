@@ -1,0 +1,13 @@
+Doc,Obls,Score,Rank
+Eagle Pharma,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1], [2, 2], [3, 3], [4, 4], [5, 5], [6, 6], [7, 7]], 'opposite': []}",1.0
+Mirum,"{'unmatchedList1': [3, 6, 7], 'unmatchedList2': [6], 'identical': [[0, 0], [0, 1], [1, 2], [2, 3], [4, 4], [4, 5], [5, 7]], 'opposite': []}",0.6363636363636364,1
+Array,"{'unmatchedList1': [5, 6, 7], 'unmatchedList2': [6], 'identical': [[0, 0], [0, 1], [1, 2], [2, 3], [3, 4], [4, 5]], 'opposite': []}",0.6,2
+2 from 2 (2),"{'unmatchedList1': [3, 6, 7], 'unmatchedList2': [6], 'identical': [[0, 0], [0, 1], [1, 2], [2, 3], [4, 4], [5, 5]], 'opposite': []}",0.6,2
+2 from Eliem,"{'unmatchedList1': [3, 6, 7], 'unmatchedList2': [6, 8], 'identical': [[0, 0], [0, 1], [1, 2], [2, 3], [4, 4], [4, 5], [5, 7]], 'opposite': []}",0.5833333333333334,3
+Biocept,"{'unmatchedList1': [3, 6, 7], 'unmatchedList2': [4, 6], 'identical': [[0, 0], [0, 1], [1, 2], [2, 3], [4, 5], [5, 7]], 'opposite': []}",0.5454545454545454,4
+Newlink,"{'unmatchedList1': [3, 5, 6, 7], 'unmatchedList2': [5], 'identical': [[0, 0], [0, 1], [1, 2], [2, 3], [4, 4]], 'opposite': []}",0.5,5
+Adagio,"{'unmatchedList1': [3, 5, 7], 'unmatchedList2': [5, 6, 7, 8], 'identical': [[0, 0], [1, 1], [2, 2], [4, 3], [6, 4]], 'opposite': []}",0.4166666666666667,6
+Verrica,"{'unmatchedList1': [3, 5, 7], 'unmatchedList2': [4, 5, 6, 7, 8, 10], 'identical': [[0, 0], [1, 1], [2, 2], [4, 3], [6, 9]], 'opposite': []}",0.35714285714285715,7
+Heat Biologics,"{'unmatchedList1': [2, 3, 4, 5], 'unmatchedList2': [2, 3, 6, 7], 'identical': [[0, 0], [1, 1], [6, 4], [7, 5]], 'opposite': []}",0.3333333333333333,8
+3 from Everbridge,"{'unmatchedList1': [2, 3, 4, 5], 'unmatchedList2': [2, 3, 4, 5, 6, 7, 10], 'identical': [[0, 0], [1, 1], [6, 8], [7, 9]], 'opposite': []}",0.26666666666666666,9
+Proteostatus,"{'unmatchedList1': [2, 3, 4, 5, 7], 'unmatchedList2': [2, 3, 5, 6, 7], 'identical': [[0, 0], [1, 1], [6, 4]], 'opposite': []}",0.23076923076923078,10

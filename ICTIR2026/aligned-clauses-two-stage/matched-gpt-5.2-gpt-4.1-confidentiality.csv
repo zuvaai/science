@@ -1,0 +1,13 @@
+Doc,Obls,Score,Rank
+Eagle Pharma,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1], [2, 2], [3, 3], [4, 4], [5, 5], [6, 6], [7, 7]], 'opposite': []}",1.0
+3 from Everbridge,"{'unmatchedList1': [3, 5], 'unmatchedList2': [6, 7, 10], 'identical': [[1, 1], [2, 2], [4, 3], [7, 5], [7, 9], [6, 8], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [7, 4], [7, 8], [7, 9], [0, 0], [6, 4], [6, 8], [7, 5], [7, 9]], 'opposite': []}",0.9090909090909091,1
+Biocept,"{'unmatchedList1': [3], 'unmatchedList2': [0], 'identical': [[0, 1], [1, 2], [2, 3], [4, 4], [4, 5], [5, 7], [6, 6], [7, 6]], 'opposite': []}",0.8,2
+Array,"{'unmatchedList1': [6, 7], 'unmatchedList2': [], 'identical': [[0, 0], [0, 1], [1, 2], [2, 3], [3, 4], [4, 5], [5, 6]], 'opposite': []}",0.7777777777777778,3
+2 from Eliem,"{'unmatchedList1': [3, 7], 'unmatchedList2': [8], 'identical': [[0, 0], [0, 1], [1, 2], [2, 3], [4, 4], [4, 5], [5, 7], [6, 6]], 'opposite': []}",0.7272727272727273,4
+Newlink,"{'unmatchedList1': [5, 6, 7], 'unmatchedList2': [], 'identical': [[0, 0], [0, 1], [1, 2], [2, 3], [4, 4], [3, 5]], 'opposite': []}",0.6666666666666666,5
+Mirum,"{'unmatchedList1': [3, 6, 7], 'unmatchedList2': [6], 'identical': [[0, 0], [0, 1], [1, 2], [2, 3], [4, 4], [4, 5], [5, 7]], 'opposite': []}",0.6363636363636364,6
+Heat Biologics,"{'unmatchedList1': [3, 5, 6], 'unmatchedList2': [4, 6, 7], 'identical': [[0, 0], [1, 1], [2, 2], [4, 3], [7, 5]], 'opposite': []}",0.45454545454545453,7
+Proteostatus,"{'unmatchedList1': [3, 4, 5], 'unmatchedList2': [3, 5, 6, 7], 'identical': [[0, 0], [1, 1], [2, 2], [6, 4], [7, 4]], 'opposite': []}",0.4166666666666667,8
+2 from 2 (2),"{'unmatchedList1': [3, 5, 6, 7], 'unmatchedList2': [0, 5, 6], 'identical': [[0, 1], [1, 2], [2, 3], [4, 4]], 'opposite': []}",0.36363636363636365,9
+Verrica,"{'unmatchedList1': [0, 3, 4, 5, 6], 'unmatchedList2': [0, 3, 5, 6, 7, 8, 10], 'identical': [[1, 1], [2, 2], [7, 4], [7, 9], [8, 4], [8, 9]], 'opposite': []}",0.3333333333333333,10
+Adagio,"{'unmatchedList1': [0, 3, 4, 5], 'unmatchedList2': [0, 3, 5, 6, 7, 8], 'identical': [[1, 1], [2, 2], [6, 4], [7, 4]], 'opposite': []}",0.2857142857142857,11

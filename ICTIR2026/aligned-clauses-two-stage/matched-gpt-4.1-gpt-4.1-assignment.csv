@@ -1,0 +1,12 @@
+Doc,Obls,Score,Rank
+Phreesa,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1], [2, 2]], 'opposite': []}",1.0
+Abiomed,"{'unmatchedList1': [], 'unmatchedList2': [1], 'identical': [[0, 0], [1, 2], [2, 3]], 'opposite': []}",0.75,1
+Phio Pharm,"{'unmatchedList1': [], 'unmatchedList2': [1], 'identical': [[0, 0], [1, 2], [2, 3]], 'opposite': []}",0.75,1
+United Surgical Partners,"{'unmatchedList1': [1], 'unmatchedList2': [1], 'identical': [[0, 0], [2, 2]], 'opposite': []}",0.5,2
+Rocket,"{'unmatchedList1': [2], 'unmatchedList2': [2], 'identical': [[0, 0], [1, 1]], 'opposite': []}",0.5,2
+Rezolute,"{'unmatchedList1': [1], 'unmatchedList2': [1], 'identical': [[0, 0], [2, 2]], 'opposite': []}",0.5,2
+Ironwood,"{'unmatchedList1': [1], 'unmatchedList2': [1, 2, 3], 'identical': [[0, 0], [2, 4]], 'opposite': []}",0.3333333333333333,3
+Alibero,"{'unmatchedList1': [1], 'unmatchedList2': [1, 2, 3], 'identical': [[0, 0], [2, 4]], 'opposite': []}",0.3333333333333333,3
+Two Contracts,"{'unmatchedList1': [1], 'unmatchedList2': [1, 2, 3, 4], 'identical': [[0, 0], [2, 5]], 'opposite': []}",0.2857142857142857,4
+Chiasma,"{'unmatchedList1': [1, 2], 'unmatchedList2': [1, 2, 3, 4], 'identical': [[0, 0]], 'opposite': []}",0.14285714285714285,5
+Verastem,"{'unmatchedList1': [0, 1], 'unmatchedList2': [0, 1, 2, 3, 4], 'identical': [[2, 5]], 'opposite': []}",0.125,6

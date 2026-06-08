@@ -1,0 +1,12 @@
+Doc,Obls,Score,Rank
+Adaptive Biotech 2,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0]], 'opposite': []}",1.0
+Adaptive Biotech,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0]], 'opposite': []}",1.0,1
+Genvec,"{'unmatchedList1': [], 'unmatchedList2': [1], 'identical': [[0, 0]], 'opposite': []}",0.5,2
+Enanta,"{'unmatchedList1': [], 'unmatchedList2': [0, 1], 'identical': [[0, 2]], 'opposite': []}",0.3333333333333333,3
+Forma,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 1]], 'opposite': [[0, 0]]}",0.3333333333333333,3
+Beam,"{'unmatchedList1': [], 'unmatchedList2': [1, 2], 'identical': [[0, 0]], 'opposite': []}",0.3333333333333333,3
+Vaxcyte,"{'unmatchedList1': [], 'unmatchedList2': [1, 2], 'identical': [[0, 0]], 'opposite': []}",0.3333333333333333,3
+NextCure,"{'unmatchedList1': [], 'unmatchedList2': [1, 2, 3], 'identical': [[0, 0]], 'opposite': []}",0.25,4
+Biocardia,"{'unmatchedList1': [0], 'unmatchedList2': [0], 'identical': [], 'opposite': []}",0.0,5
+Sensei,"{'unmatchedList1': [0], 'unmatchedList2': [0], 'identical': [], 'opposite': []}",0.0,5
+Revolution,"{'unmatchedList1': [0], 'unmatchedList2': [0], 'identical': [], 'opposite': []}",0.0,5

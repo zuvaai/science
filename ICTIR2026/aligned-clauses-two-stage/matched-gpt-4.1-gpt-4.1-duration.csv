@@ -1,0 +1,14 @@
+Doc,Obls,Score,Rank
+2 from Sanchez,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1]], 'opposite': []}",1.0
+Gulfport,"{'unmatchedList1': [], 'unmatchedList2': [1, 3], 'identical': [[0, 0], [1, 2]], 'opposite': []}",0.5,1
+Inseego,"{'unmatchedList1': [0], 'unmatchedList2': [0, 1], 'identical': [[1, 2]], 'opposite': []}",0.25,2
+Entellus,"{'unmatchedList1': [0], 'unmatchedList2': [0, 1], 'identical': [[1, 2]], 'opposite': []}",0.25,2
+Mammoth,"{'unmatchedList1': [0], 'unmatchedList2': [0, 1], 'identical': [[1, 2]], 'opposite': []}",0.25,2
+Earthstone,"{'unmatchedList1': [0], 'unmatchedList2': [0, 1], 'identical': [[1, 2]], 'opposite': []}",0.25,2
+Angel Pond,"{'unmatchedList1': [1], 'unmatchedList2': [0, 1], 'identical': [[0, 2]], 'opposite': []}",0.25,2
+Opgen,"{'unmatchedList1': [0], 'unmatchedList2': [0, 1, 3, 4], 'identical': [[1, 2]], 'opposite': []}",0.16666666666666666,3
+Kinmed,"{'unmatchedList1': [0], 'unmatchedList2': [0, 1, 3, 4], 'identical': [[1, 2]], 'opposite': []}",0.16666666666666666,3
+Gi Dynamics,"{'unmatchedList1': [0], 'unmatchedList2': [0, 1, 3, 4, 5], 'identical': [[1, 2]], 'opposite': []}",0.14285714285714285,4
+Cytodin,"{'unmatchedList1': [0], 'unmatchedList2': [0, 1, 3, 4, 5], 'identical': [[1, 2]], 'opposite': []}",0.14285714285714285,4
+Frontier,"{'unmatchedList1': [0], 'unmatchedList2': [0, 1, 2, 3, 5], 'identical': [[1, 4]], 'opposite': []}",0.14285714285714285,4
+TTM,"{'unmatchedList1': [0, 1], 'unmatchedList2': [0, 1, 2], 'identical': [], 'opposite': []}",0.0,5

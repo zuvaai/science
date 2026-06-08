@@ -1,0 +1,12 @@
+Doc,Obls,Score,Rank
+MassRoots,"{'unmatchedList1': [], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1], [2, 2]], 'opposite': []}",1.0
+4 from First Advantage,"{'unmatchedList1': [2], 'unmatchedList2': [], 'identical': [[0, 0], [0, 1], [1, 2]], 'opposite': []}",0.75,1
+2 from GenCo,"{'unmatchedList1': [2], 'unmatchedList2': [], 'identical': [[0, 0], [0, 1], [1, 2]], 'opposite': []}",0.75,1
+4 from Albany,"{'unmatchedList1': [2], 'unmatchedList2': [], 'identical': [[0, 0], [0, 1], [1, 2]], 'opposite': []}",0.75,1
+2 from GrubHub,"{'unmatchedList1': [2], 'unmatchedList2': [], 'identical': [[0, 0], [0, 1], [1, 2]], 'opposite': []}",0.75,1
+Landstar,"{'unmatchedList1': [2], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1]], 'opposite': []}",0.6666666666666666,2
+2 from 8i,"{'unmatchedList1': [2], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1]], 'opposite': []}",0.6666666666666666,2
+Genesis,"{'unmatchedList1': [2], 'unmatchedList2': [], 'identical': [[0, 0], [1, 1]], 'opposite': []}",0.6666666666666666,2
+6 from 3,"{'unmatchedList1': [2], 'unmatchedList2': [3], 'identical': [[0, 0], [0, 1], [1, 2]], 'opposite': []}",0.6,3
+4 from 2,"{'unmatchedList1': [2], 'unmatchedList2': [0], 'identical': [[0, 1], [1, 2]], 'opposite': []}",0.5,4
+5 from Herbalife,"{'unmatchedList1': [2], 'unmatchedList2': [0], 'identical': [[0, 1], [1, 2]], 'opposite': []}",0.5,4
